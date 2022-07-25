@@ -56,9 +56,30 @@ job request, patient registration, Booking Appointment along with email notifica
 
 10. open any browser and type http://localhost/SRI2/index.php.
 
- 11.first register and then login
+11.first register and then login
 
 12. admin login details Username=admin and Password=1234
+
+## Changes Required for Email 
+- In C:\xampp\php\php.ini You have to give your email and change port
+```
+[mail function]
+SMTP=smtp.gmail.com
+smtp_port=587
+sendmail_from =your-email-id
+sendmail_path ="\"C:\xampp\sendmail\sendmail.exe\" -t"
+
+```
+
+- In C:\xampp\sendmail\sendmail.ini You have to give your password 
+```
+[sendmail]
+smtp_server=smtp.gmail.com
+smtp_port=587
+auth_username=your-email-id
+auth_password=password
+force_sender=email-id
+```
 
 
 
