@@ -56,7 +56,7 @@ job request, patient registration, Booking Appointment along with email notifica
 
 10. open any browser and type http://localhost/SRI2/index.php.
 
-11.first register and then login
+ 11.first register and then login
 
 12. admin login details Username=admin and Password=1234
 
