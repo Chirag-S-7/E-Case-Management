@@ -4,6 +4,17 @@ A database driven web application developed using PHP and MySQL which is a one s
 job request, patient registration, Booking Appointment along with email notification and payment option.
 
 ---
+
+## Screenshots
+![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Admin_Dashboard.jpeg)
+![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Doctor_Dashboard.jpeg)
+![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Patient_Dashboard.jpeg)
+![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/schedule_slot.jpeg)
+![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Booking_Appointment.jpeg)
+![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Invoice.jpeg)
+
+
+
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
